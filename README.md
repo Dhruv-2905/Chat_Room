@@ -16,54 +16,7 @@ A chat room application built using Python threading and sockets, enabling multi
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/chat-room.git
-    cd chat-room
-    ```
-
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## Usage
-
-1. Start the server:
-    ```bash
-    python server.py
-    ```
-
-2. Start the client:
-    ```bash
-    python client.py
-    ```
-
-3. Enter your username and start chatting!
-
-## Project Structure
-
-Sure, I can help you create a README.md file for your Chat Room project. Below is a template that you can use. Adjust the details according to your project specifics.
-
-markdown
-Copy code
-# Chat Room
-
-A chat room application built using Python threading and sockets, enabling multiple users to communicate over a local network.
-
-## Features
-
-- Multiple users can connect to the chat room.
-- Messages are broadcast to all connected users.
-- Simple command-line interface.
-
-## Requirements
-
-- Python 3.x
-
-## Installation
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/chat-room.git
+    git clone https://github.com/Dhruv-2905/Chat_Room.git
     cd chat-room
     ```
 
@@ -112,9 +65,6 @@ The client script connects to the server and allows the user to send and receive
 4. Push to the branch (`git push origin feature-branch`)
 5. Create a new Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
